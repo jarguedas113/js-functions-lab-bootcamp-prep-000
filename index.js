@@ -4,6 +4,6 @@ function happyHolidays(string){
  return "Happy holidays!"
 }
 
-function happyHolidaysTo (string) {
- return string('name')
+function happyHolidaysTo (name) {
+ return name('name')
 }
